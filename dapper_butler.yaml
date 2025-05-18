@@ -22,10 +22,10 @@ blueprint:
     Simply fill in the configuration options below when you create an automation from this blueprint. Each option includes helpful descriptions to guide you. For the AI to work, ensure you have a Conversation Agent set up in Home Assistant or the Google Generative AI integration configured if you choose the direct Google call.
 
     ---
-    *If you find this blueprint helpful, a ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/YourActualLinkHere) would be much appreciated! (Optional: Replace with your link or remove).*
+    *If you find this blueprint helpful, a ☕ [Buy Me a Coffee](https://buymeacoffee.com/marksquires) would be much appreciated! (Optional: Replace with your link or remove).*
     *For support, ideas, or to share your Butler's best lines, visit the [Community Forum Thread](your-forum-thread-link-here).*
   domain: automation
-  source_url: https://github.com/your_github_username/your_repo_name/blob/main/blueprints/dapper_digital_butler_v1_0_0_final.yaml # Replace with your actual URL
+  source_url: https://github.com/squizzer73/dapper_digital_butler/blob/main/dapper_butler.yaml # Replace with your actual URL
 
   input:
     # --- ⏰ Time Settings ---
