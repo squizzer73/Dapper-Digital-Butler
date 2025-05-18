@@ -49,7 +49,7 @@ This isn't just another notification; it's a comprehensive, AI-enhanced briefing
 
 ### <a name="requirements">📋 Requirements:</a>
 
-*   **Home Assistant Version:** Tested on HA 2023.8.x or newer (due to the `action:` keyword for service calls). Might work on slightly older versions if you manually change `action:` back to `service:` in the blueprint YAML for service calls.
+*   **Home Assistant Version:** Tested on HA 2025.5 (due to the `action:` keyword for service calls). Might work on slightly older versions if you manually change `action:` back to `service:` in the blueprint YAML for service calls.
 *   **AI Setup:**
     *   If using the "Home Assistant Conversation Agent" method: You need at least one [Conversation Agent](https://www.home-assistant.io/integrations/conversation/) configured in Home Assistant.
     *   If using the "Direct Google Generative AI Call" method: You need the [Google Generative AI Conversation](https://www.home-assistant.io/integrations/google_generative_ai_conversation/) integration set up and working.
@@ -661,8 +661,6 @@ When you create an automation using this blueprint, you'll be presented with sev
     *   Flexible AI processing via HA Conversation Agents or direct Google Generative AI call.
     *   Custom text injection.
     *   Detailed configuration options and user-friendly descriptions.
-    *   Many thanks to [Your Username Here] for extensive testing and patience!
-
 ---
 
 ### <a name="future">🚀 Future Ideas (Maybe!):</a>
