@@ -16,7 +16,7 @@ I created this blueprint because I wanted a more engaging and personalized way t
 
 This automation sends you a custom-tailored update in the morning and again in the evening (both times fully configurable, of course!). It's designed to be your go-to source for essential daily info, helping you start and end your day informed and organized.
 
-[![Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fsquizzer73%2FDapper-Digital-Butler%2Fblob%2Fmain%2Fblueprints%2Fdapper_butler_v1_0_0_final.yaml)
+[![Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fsquizzer73%2FDapper-Digital-Butler%2Fblob%2Fmain%2Fdapper_butler_v1_0_0_final.yaml)
 
 ---
 
